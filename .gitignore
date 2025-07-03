@@ -1,0 +1,6 @@
+# Don't upload your secrets or virtual environment
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
